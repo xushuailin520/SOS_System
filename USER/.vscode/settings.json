@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "gsm.h": "c",
+        "stm32f10x.h": "c",
+        "uart.h": "c",
+        "delay.h": "c"
+    }
+}
